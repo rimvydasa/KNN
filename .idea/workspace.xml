@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4554af-590c-44d0-bb20-f0bb393de6ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/41e7d243-3b1f-4b11-bf0d-ad3442aa832f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/41e7d243-3b1f-4b11-bf0d-ad3442aa832f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/weka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.48-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KNN/META-INF/KNN.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KNN/lt/rimvydasa/ClassifyByFormula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KNN/lt/rimvydasa/KNN_Features.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KNN/lt/rimvydasa/KNN_main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/rimvydasa/ClassifyByFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/rimvydasa/KNN_Features.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/rimvydasa/KNN_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weka.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lt/rimvydasa/KNN_main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XGEfcaldj5ginad9jlnGLQ0i9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lt.rimvydasa.KNN_main" />
+      <module name="KNN" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionsDemo" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ActionsDemo" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Java Scratch.ActionsDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.ActionsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4554af-590c-44d0-bb20-f0bb393de6ce" name="Default Changelist" comment="" />
+      <created>1580664134597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580664134597</updated>
+      <workItem from="1580664135965" duration="2789000" />
+      <workItem from="1580755212979" duration="2961000" />
+      <workItem from="1580759776717" duration="13212000" />
+      <workItem from="1580821513906" duration="1523000" />
+      <workItem from="1580835299775" duration="4810000" />
+      <workItem from="1580975040803" duration="11306000" />
+      <workItem from="1581184730024" duration="152000" />
+      <workItem from="1581184901568" duration="503000" />
+      <workItem from="1581584613656" duration="687000" />
+      <workItem from="1581929449137" duration="573000" />
+      <workItem from="1581935112451" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581929903948">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="440" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.971@0.23.1680.971" timestamp="1581929903948" />
+    <state x="440" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.973@0.23.1680.973" timestamp="1580987405980" />
+    <state x="1021" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1580975395418">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="1021" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1680.973@0.23.1680.973" timestamp="1580975395418" />
+    <state x="713" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581929903209">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="713" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.971@0.23.1680.971" timestamp="1581929903209" />
+    <state x="454" y="244" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580755195073">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="454" y="244" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.973@0.23.1680.973" timestamp="1580755195073" />
+    <state x="855" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580835827954">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="855" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.973@0.23.1680.973" timestamp="1580835827954" />
+    <state x="1019" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580838537853">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="1019" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.973@0.23.1680.973" timestamp="1580838537853" />
+    <state width="1638" height="414" key="GridCell.Tab.0.bottom" timestamp="1581930024220">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="788" height="294" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580764905729" />
+    <state width="1638" height="414" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1581930024220" />
+    <state width="1638" height="416" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1580994728693" />
+    <state width="1638" height="414" key="GridCell.Tab.0.center" timestamp="1581930024219">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="788" height="294" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580764905728" />
+    <state width="1638" height="414" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1581930024219" />
+    <state width="1638" height="416" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1580994728692" />
+    <state width="1638" height="414" key="GridCell.Tab.0.left" timestamp="1581930024219">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="788" height="294" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580764905727" />
+    <state width="1638" height="414" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1581930024219" />
+    <state width="1638" height="416" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1580994728692" />
+    <state width="1638" height="414" key="GridCell.Tab.0.right" timestamp="1581930024220">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="788" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580764905729" />
+    <state width="1638" height="414" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1581930024220" />
+    <state width="1638" height="416" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1580994728692" />
+    <state width="771" height="323" key="GridCell.Tab.1.bottom" timestamp="1580809351093">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="788" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580764026420" />
+    <state width="771" height="323" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1580809351093" />
+    <state width="771" height="323" key="GridCell.Tab.1.center" timestamp="1580809351093">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="788" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580764026420" />
+    <state width="771" height="323" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1580809351093" />
+    <state width="771" height="323" key="GridCell.Tab.1.left" timestamp="1580809351092">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="788" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580764026419" />
+    <state width="771" height="323" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1580809351092" />
+    <state width="771" height="323" key="GridCell.Tab.1.right" timestamp="1580809351093">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="788" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580764026420" />
+    <state width="771" height="323" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1580809351093" />
+    <state x="656" y="91" key="SettingsEditor" timestamp="1581185704536">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="656" y="73" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580764245851" />
+    <state x="656" y="91" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1581185704536" />
+    <state x="505" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1581929449344">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="505" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.971@0.23.1680.971" timestamp="1581929449344" />
+    <state x="505" y="342" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1581184902319" />
+  </component>
+</project>
